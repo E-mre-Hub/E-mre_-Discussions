@@ -7,7 +7,7 @@
 **Soru sorun, fikir paylaşın, yeni sürümlerden ilk siz haberdar olun.**
 
 [Tartışmalara git](https://github.com/E-mre-Hub/E-mre_-Discussions/discussions) ·
-[Yeni tartışma aç](https://github.com/E-mre-Hub/E-mre_-Discussions/discussions/new/choose) ·
+[Yeni tartışma aç](https://github.com/E-mre-Hub/E-mre_-Discussions/discussions/new) ·
 [Uygulamayı indir](https://github.com/E-mre-Hub/E-mre-Control-Center/releases/latest) ·
 [English](#english)
 
